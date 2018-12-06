@@ -1,0 +1,19 @@
+{
+  "name": "17",
+  "version": "1.0.0",
+  "description": "homework 17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016git+ssh://git@github.com/rturceaninov/homework_16.git\u001b[D\u001b[D\u001b[D\u001b[7\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  },
+  "author": "Ruslan Turceaninov",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "gitignore": "^0.6.0"
+  }
+}
